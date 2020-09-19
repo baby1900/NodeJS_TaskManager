@@ -1,7 +1,6 @@
 class ServerClient {
-    constructor(API) {
-        this.api = API + 'a';
-    }
+    constructor() {}
+    sendEmail(email, name){}
 }
 
 module.exports = {
