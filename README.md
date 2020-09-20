@@ -52,6 +52,8 @@
 ## About The Project
 This app mainly focuses on backend and tests. If you want to see some sample frontend codes, please see the [WeatherApp](https://github.com/baby1900/NodeJS_WeatherAPP)
 
+This app is deployed on Heroku at [https://michael-task-manager.herokuapp.com](https://michael-task-manager.herokuapp.com)
+
 The purpose of this app is to help people to keep track of their tasks.
 
 The app utilized MongoDB to store users and tasks data, and Postmark is used to send emails when a user creates an account or closes the account.
